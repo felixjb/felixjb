@@ -12,12 +12,10 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
 - 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
 - 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
 - ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
--->
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,postgres,aws)](https://skillicons.dev)
 
-<!--
 ## 🌱 Currently Exploring
 
 - 🚀 Learning Full Stack Web Development
@@ -36,4 +34,4 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/felixjb/)
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+Thanks for stopping by! 🚀
